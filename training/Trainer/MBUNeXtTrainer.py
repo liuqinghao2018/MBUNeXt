@@ -25,7 +25,7 @@ class MBUNeXtTrainer(nnUNetTrainer):
         self.oversample_foreground_percent = 0.33
         self.num_iterations_per_epoch = 50
         self.num_val_iterations_per_epoch = 200
-        self.num_epochs = 200
+        self.num_epochs = 300
         self.current_epoch = 0
         self.enable_deep_supervision = False
 
