@@ -18,7 +18,7 @@ pip install torch torchvision numpy SimpleITK scikit-learn tqdm
 ## 🚀 Training
 
 ```
-# Train on BraTS-Africa2024 
+# Train
 python run_training_db.py
 ```
 
